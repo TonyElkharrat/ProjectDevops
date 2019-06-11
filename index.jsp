@@ -8,7 +8,7 @@
   </head>
   <body>
     <center><h1>Welcome in Devops Course</h1></center>
-     <center><h2><p> Website Created By Tony Meir And Tegev</p></center>
+     <center><h2><p> Website Created By Tony And Meir</p></center>
 <h2 style="font-size:25px;font-style:bold;"></h2> 
     <img src="0.jpeg" alt="Girl in a jacket">
 
