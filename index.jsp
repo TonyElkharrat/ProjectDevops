@@ -1,5 +1,5 @@
 
-<body style='background-color: #87CEFA;'>
+<body style='background-color: #185DFD;'>
 
 <html>
   <head>
